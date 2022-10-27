@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 <h1 align="center">Hi 👋, I'm Yug Thosar</h1>
 <h3 align="center">A passionate frontend developer and backend learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU"> 
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOSVtS3OcIM1tc3mq6vaDr2sNQnTa-IvD2KQ&usqp=CAU"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugthosar&label=Profile%20views&color=0e75b6&style=flat" alt="yugthosar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugthosar" alt="yugthosar" /></a> </p>
